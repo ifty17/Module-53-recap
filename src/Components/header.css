@@ -1,0 +1,14 @@
+.header a {
+    color: black;
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 2px 5px;
+}
+.header a:hover{
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+.active{
+    background-color: lightskyblue;
+    border-radius: 10px;
+}
